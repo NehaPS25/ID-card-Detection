@@ -1,0 +1,7 @@
+#path: C:\Users\Legion\PycharmProjects\Object-Detection-Yolo\Yolov8-Custom-Model\train
+train : C:\Users\Legion\PycharmProjects\Object-Detection-Yolo\Yolov8-Custom-Model\train
+val: C:\Users\Legion\PycharmProjects\Object-Detection-Yolo\Yolov8-Custom-Model\val
+
+
+nc: 7
+names: ["Rs10", "Rs20", "Rs50", "Rs100", "Rs200", "Rs500", "Rs2000"]
